@@ -1,0 +1,30 @@
+#body-background {
+    background-image: url("prback.jpg");
+    background-size:cover;
+    background-position: center;
+}
+
+#myCanvas {
+    background-color: white;
+    border-style:ridge ;
+    border-width: 10px;
+}
+h2 {
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+}
+
+h3 {
+    display: inline-block;
+}
+
+span {
+color: black;
+}
+
+#heading-info {
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
